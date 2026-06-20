@@ -1,0 +1,6 @@
+-clear
+-ls
+-get filename.extension
+-getall
+-clear
+-exit
